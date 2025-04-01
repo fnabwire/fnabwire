@@ -1,7 +1,4 @@
-# 🚀 Passionate IT Professional 😊 | Software Developer | Problem Solver 👩🏾‍💻
-
-Hi there! 👋 I'm Francisca, a passionate IT professional with a focus on software  development. I love crafting user-friendly and impactful web experiences, turning creative ideas into functional and beautiful realities. I'm driven by the challenge of solving complex problems and continuously learning new technologies to stay at the forefront of software development.
-
+# Francisca Nabwire | Software Developer 👩🏾‍💻
 
 ## 🧑🏾‍💻 About Me
 
@@ -13,11 +10,6 @@ I'm a dedicated software developer with a strong desire to create seamless and e
 **Frameworks/Libraries:** React, Tailwind CSS, Bootstrap
 **Tools:** Git, GitHub, VS Code, Webpack, Babel
 **Other:** Responsive Design, UI/UX Principles, Agile Methodologies
-
-## 📊 My GitHub Stats
-
-[![Francisca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)](https://github.com/your_github_username)
-[![Francisca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&langs_count=8&theme=radical)](https://github.com/your_github_username)
 
 ## Let's Connect!
 
