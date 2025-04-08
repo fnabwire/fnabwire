@@ -17,11 +17,6 @@ Hello there! 👋 I'm a passionate Software Developer on a quest to build intuit
    - 🌐 HTML
    - 🎨 CSS
 
-**Frameworks/Libraries:**
-   - ⚛️ React
-   - 💅 Tailwind CSS
-   - 👢 Bootstrap
-
 **Tools:**
    - 🐱‍💻 Git & GitHub
    - 💻 VS Code
