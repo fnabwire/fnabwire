@@ -6,7 +6,7 @@
 
 </div>
 
-## 🧑🏾‍💻 About Me
+## 👩🏾 About Me
 
 Hello there! 👋 I'm a passionate Software Developer on a quest to build intuitive and engaging applications. My tech journey is powered by a love for problem-solving 🧩, a commitment to writing elegant code ✍️, and a burning desire to stay ahead of the curve in the ever-evolving world of software development. I'm always excited to collaborate on innovative projects and contribute to the vibrant tech community! 🚀
 
