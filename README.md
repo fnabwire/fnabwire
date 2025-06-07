@@ -13,14 +13,10 @@ Hello there! 👋 I'm a passionate Software Developer on a quest to build intuit
 ## 🛠️ Skills
 
 **Languages:** 
-   - 💎 JavaScript 
+   - 💎 JavaScript
+   -    Python 
    - 🌐 HTML
    - 🎨 CSS
-
-**Tools:**
-   - 🐱‍💻 Git & GitHub
-   - 💻 VS Code
-   - 📦 Webpack & Babel
 
 **Other:**
    - 📱 Responsive Design
